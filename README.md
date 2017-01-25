@@ -7,6 +7,6 @@ An expert system fucused on the recognition of magic tricks using cards implemen
 - Questions base
 - 0+ forward chaining inference engine
 
-This project realised in duo for the IA01 course achieved the best score of the propomtion with a grade of 15/20.
+This project realised in duo for the IA01 course achieved a grade of 15/20.
 
 The documents are in French.
